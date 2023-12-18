@@ -7,9 +7,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: skyblue;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button {
+  margin-left: 100px;
+  background-color: yellow;
+}
+
+h2,
+p {
+  margin-left: 100px;
 }
