@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => (
   <div>
     <p>Good: {good}</p>
@@ -9,3 +11,4 @@ const Statistics = ({ good, neutral, bad, total, positivePercentage }) => (
 );
 
 export default Statistics;
+
